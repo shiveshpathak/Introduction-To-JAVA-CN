@@ -1,11 +1,11 @@
-# IntroductionToJavaCodingNinja
-Zero To Hero Intoduction To Core Java By Coding Ninza
+# IntroductionToJava
+Zero To Hero Intoduction To Core Java By CN
 
-# What I did
+#1 What I did
 
 In This Repo I Solved More than #200# problem on Introduction To Java.
 
-# Lecture-
+#2 Lecture-
           1.   FlowCharts
           2.   Getting Started With Java
           3.   How is Data Stored.
