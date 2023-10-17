@@ -3,7 +3,7 @@ Zero To Hero Intoduction To Core Java By CN
 
 # What I did
 
-In This Repo I Solved More than #200# problem on Introduction To Java.
+In This Repo I Solved More than #200# Diffrent problem on Introduction To Java.
 
 # Lecture-
           1.   FlowCharts
