@@ -1,11 +1,11 @@
 # IntroductionToJava
 Zero To Hero Intoduction To Core Java By CN
 
-#1 What I did
+# What I did
 
 In This Repo I Solved More than #200# problem on Introduction To Java.
 
-#2 Lecture-
+# Lecture-
           1.   FlowCharts
           2.   Getting Started With Java
           3.   How is Data Stored.
