@@ -1,0 +1,17 @@
+import java.util.* ;
+import java.io.*; 
+class Solution {
+	
+	public static void main(String args[]) {
+		
+		// Write code here
+		Scanner sc = new Scanner(System.in);
+		int principal = sc.nextInt();
+		double rate =  sc.nextDouble();
+		int time = sc.nextInt();
+
+		int simpleIntrest = (int)(principal*rate*time)/100;
+		System.out.println(simpleIntrest);
+		
+	}
+}
