@@ -1,0 +1,10 @@
+public class Solution {
+    public static void printDisplayMessage() {
+        System.out.println("Welcome to Java course!");
+        System.out.println("Hello");
+        System.out.println("Ninja");
+    }
+    public static void main(String args[]) {
+        printDisplayMessage();
+    }
+}
